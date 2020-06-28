@@ -19,7 +19,7 @@ about:
   enable: true
   image: images/cooker-img.png
   title: Featured Your <span> Restaurant’s</span> Website Has To Look Good
-  description: This is my about section
+  description: 'This is my about section New '
 blog:
   enable: true
   title: Our Latest <span>Blog</span>
