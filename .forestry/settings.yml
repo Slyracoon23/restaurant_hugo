@@ -8,7 +8,7 @@ sections:
   path: config.toml
   label: config
 - type: document
-  path: data/hompage.yaml
+  path: data/hompage.yml
   label: data
 - type: directory
   path: content
