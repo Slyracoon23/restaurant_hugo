@@ -8,6 +8,10 @@ sections:
   path: config.toml
   label: config
   match: "**/*"
+- type: document
+  path: data/hompage.yaml
+  label: data
+  match: "**/*"
 - type: directory
   path: content
   label: Pages
