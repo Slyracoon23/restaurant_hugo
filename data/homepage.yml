@@ -2,7 +2,7 @@
 hero_area:
   enable: true
   bg_image: images/header.jpg
-  overlay: false
+  overlay: true
 gallery:
   enable: true
   title: FEATURED WORKS
