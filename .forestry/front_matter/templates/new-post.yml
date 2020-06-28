@@ -18,4 +18,5 @@ fields:
   name: type
   label: type
 pages:
+- content/blog/new-hot.md
 - content/blog/new.md
